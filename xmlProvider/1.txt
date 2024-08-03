@@ -1,0 +1,23 @@
+
+C:\Users\net\Desktop\gooo\xsd2xml\xsd2xml>cd mb01 
+
+C:\Users\net\Desktop\gooo\xsd2xml\xsd2xml\mb01>go.bat
+
+C:\Users\net\Desktop\gooo\xsd2xml\xsd2xml\mb01>7z a test.zip _rels  Documents Resources "[Content_Types].xml" FixedDocumentSequence.fdseq 
+
+7-Zip 22.01 (x64) : Copyright (c) 1999-2022 Igor Pavlov : 2022-07-15
+
+Scanning the drive:
+6 folders, 32 files, 28981913 bytes (28 MiB)
+
+Creating archive: test.zip
+
+Add new data to archive: 6 folders, 32 files, 28981913 bytes (28 MiB)
+
+
+Files read from disk: 32
+Archive size: 20142326 bytes (20 MiB)
+Everything is Ok
+
+C:\Users\net\Desktop\gooo\xsd2xml\xsd2xml\mb01>copy test.zip ..\test.xps 
+已复制         1 个文件。

@@ -1,0 +1,68 @@
+<FixedPage xml:lang="en-US" xmlns="http://schemas.microsoft.com/xps/2005/06" Width="1636" Height="1945">
+<Path Data="  A 68,195 106 0 1 64,181 C 34,121 32,141 163,173 H 101 S 107,69 173,119 a 110,84 194 1 1 67,71 l 76,105 Q 86,49 44,139 S 119,112 26,184 q 102,140 34,188 z " StrokeDashOffset="96.46" StrokeEndLineCap="Triangle">
+<Path.Clip>
+<PathGeometry Figures="  M 89,5 C 64,21 1,70 194,159 Q 133,94 167,114 c 31,41 160,110 175,75 v 185 Z ">
+</PathGeometry>
+</Path.Clip>
+<Path.OpacityMask>
+<ImageBrush Opacity="0.81" Transform="49,142,162,48,182,156" Viewbox="42,129,197,34" Viewport="114,91,128,24" ViewboxUnits="Absolute" ViewportUnits="Absolute" ImageSource="/Resources/QL_logo_color.tif">
+</ImageBrush>
+</Path.OpacityMask>
+<Path.Fill>
+<LinearGradientBrush Opacity="0.54" MappingMode="Absolute" Transform="169,137,160,128,30,121" StartPoint="256,88" EndPoint="62,93">
+<LinearGradientBrush.GradientStops>
+<GradientStop Color="#3EFFD8" Offset="0.51">
+</GradientStop>
+<GradientStop Color="#6FFAC1" Offset="0.08">
+</GradientStop>
+<GradientStop Color="#40BE99" Offset="0.02">
+</GradientStop>
+<GradientStop Color="#987024" Offset="0.33">
+</GradientStop>
+<GradientStop Color="ContextColor /Resources/swopcmykprofile.icc 0.4571075080844784,0.5696159360466259,0.6673471646009915,0,0.25704324916865506" Offset="0.39">
+</GradientStop>
+</LinearGradientBrush.GradientStops>
+</LinearGradientBrush>
+</Path.Fill>
+<Path.Stroke>
+<VisualBrush Opacity="0.35" Viewbox="57,-256,127,88" Viewport="153,87,78,86" ViewboxUnits="Absolute" ViewportUnits="Absolute">
+<VisualBrush.Visual>
+<Path RenderTransform="156,43,151,162,76,141" Clip="  F 0 M 36,47 a 23,127 138 0 0 61,54 l 95,41 a 177,200 143 1 1 170,39 A 127,31 198 0 1 131,187 V 45 s 82,195 55,172 S 72,35 22,20 z " Opacity="0.75" Stroke="sc#0.16120073975130178,0.8830864882661356,0.40955578409699134" StrokeDashCap="Flat" StrokeStartLineCap="Round" StrokeMiterLimit="21" StrokeThickness="32">
+<Path.OpacityMask>
+<SolidColorBrush Color="sc#0.15552979898160124,1,0.5011578918748656,0.9748126247553678">
+</SolidColorBrush>
+</Path.OpacityMask>
+<Path.Fill>
+<ImageBrush Opacity="0.65" Transform="155,106,25,60,114,21" Viewbox="71,104,79,92" Viewport="28,96,193,120" ViewboxUnits="Absolute" ViewportUnits="Absolute" ImageSource="/Resources/not_kitty.jxr">
+</ImageBrush>
+</Path.Fill>
+<Path.Data>
+<PathGeometry Transform="189,44,103,151,122,97">
+<PathFigure StartPoint="83,80">
+<ArcSegment Point="199,37" Size="35,141" RotationAngle="79.85" IsLargeArc="true" SweepDirection="Clockwise" IsStroked="false">
+</ArcSegment>
+</PathFigure>
+<PathFigure IsClosed="true" StartPoint="136,149" IsFilled="false">
+<PolyBezierSegment Points="112,69 62,163 28,111 27,62 120,52 37,115 74,66 133,35 48,47 ">
+</PolyBezierSegment>
+</PathFigure>
+<PathFigure StartPoint="49,193" IsFilled="false">
+<ArcSegment Point="154,132" Size="33,51" RotationAngle="74" SweepDirection="Counterclockwise" IsStroked="true">
+</ArcSegment>
+</PathFigure>
+<PathFigure StartPoint="35,32">
+<ArcSegment Point="133,105" Size="146,180" RotationAngle="9.12" SweepDirection="Counterclockwise">
+</ArcSegment>
+</PathFigure>
+<PathFigure StartPoint="35,99">
+<PolyLineSegment Points="38,138 23,29 ">
+</PolyLineSegment>
+</PathFigure>
+</PathGeometry>
+</Path.Data>
+</Path>
+</VisualBrush.Visual>
+</VisualBrush>
+</Path.Stroke>
+</Path>
+</FixedPage>

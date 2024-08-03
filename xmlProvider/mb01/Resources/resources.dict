@@ -1,0 +1,35 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/xps/2005/06" xmlns:x="http://schemas.microsoft.com/xps/2005/06/resourcedictionary-key">
+    <VisualBrush x:Key="visual" Viewbox="0,0,10,10" Viewport="0,0,10,10" ViewportUnits="Absolute" ViewboxUnits="Absolute" TileMode="Tile">
+        <VisualBrush.Visual>
+            <Canvas>
+                <Path Stroke="#d05f00" Data="M 0,4 L 4,4 4,0 6,0 6,4 10,4 10,6 6,6 6,10 4,10 4,6 0,6 Z" />
+            </Canvas>
+        </VisualBrush.Visual>
+    </VisualBrush>
+    <ImageBrush x:Key="image" ImageSource="/Resources/mammoth.jpg" Viewbox="0,0,128,96" Viewport="0,0,128,96" ViewportUnits="Absolute" ViewboxUnits="Absolute" TileMode="Tile" />
+    <MatrixTransform x:Key="rotate" Matrix="0.5000001,0.8660254,-0.4330127,0.25,418,0" />
+    <MatrixTransform x:Key="offset" Matrix="1,0,0,1,258,0" />
+    <PathGeometry x:Key="rectangle" Figures="M 20,10 L 220,10 220,100 20,100 Z" />
+    <PathGeometry x:Key="bezier" Figures="M 10,150 c 25,-50 50,50 75,0 s 50,50 75,0 50,50 75,0 c -25,-50 -50,50 -75,0 s -50,50 -75,0 -50,50 -75,0" />
+    <PathGeometry x:Key="oval" Figures="M 20,250 A 100,50 0 1 1 220,250 100,50 0 1 1 20,250" />
+    <SolidColorBrush x:Key="magenta" Color="ContextColor /Resources/swopcmykprofile.icc 1.0,0.000,1.000,0.000,0.000" />
+    <SolidColorBrush x:Key="green" Color="#00ff00" />
+    
+    <PathGeometry x:Key="all">
+        <PathFigure StartPoint="20,70" IsClosed="true">
+            <PolyLineSegment Points="250,70 250,300 20,300" />
+        </PathFigure>
+        <PathFigure StartPoint="135,70">
+            <ArcSegment Size="115,115" IsLargeArc="true" RotationAngle="0" SweepDirection="Counterclockwise" Point="135,300" />
+            <ArcSegment Size="115,115" IsLargeArc="true" RotationAngle="0" SweepDirection="Counterclockwise" Point="135,70" />
+        </PathFigure>
+        <PathFigure StartPoint="135,70">
+            <PolyQuadraticBezierSegment Points="270,185 135,300" />
+            <PolyQuadraticBezierSegment Points="0,185 135,70" />
+        </PathFigure>
+        <PathFigure StartPoint="250,185">
+            <PolyBezierSegment Points="173.34,85 96.67,285 20,185" />
+            <PolyBezierSegment Points="96.67,85 173.34,285 250,185" />
+        </PathFigure>
+    </PathGeometry>
+</ResourceDictionary>

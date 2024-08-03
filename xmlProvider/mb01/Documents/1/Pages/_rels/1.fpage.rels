@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/QL_logo_color.tif" Id="Q0" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/arial.ttf" Id="Q1" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/RGBprofile.icc" Id="Q2" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/swopcmykprofile.icc" Id="Q3" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/mammoth.jpg" Id="Q4" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/img103.png" Id="Q5" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/times.ttf" Id="Q6" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/courier.ttf" Id="Q7" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/gulimche.ttf" Id="Q8" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/msgothic.ttf" Id="Q9" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/mshei.ttf" Id="Q10" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/JapanColor2011Coated.icc" Id="Q11" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/SWOP2006_Coated3v2.icc" Id="Q12" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/not_kitty.jxr" Id="Q13" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/resources.dict" Id="Q14" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/logluv-3c-16b.tif" Id="Q15" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/minisblack-1c-8b.tif" Id="Q16" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/minisblack-1c-16b.tif" Id="Q17" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/minisblack-2c-8b-alpha.tif" Id="Q18" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/miniswhite-1c-1b.tif" Id="Q19" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/palette-1c-1b.tif" Id="Q20" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/palette-1c-4b.tif" Id="Q21" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/palette-1c-8b.tif" Id="Q22" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/quad-tile.tif" Id="Q23" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/rgb-3c-8b.tif" Id="Q24" />
+<Relationship Type="http://schemas.microsoft.com/xps/2005/06/required-resource" Target="/Resources/rgb-3c-16b.tif" Id="Q25" />
+</Relationships>
